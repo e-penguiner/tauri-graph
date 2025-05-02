@@ -1,5 +1,7 @@
 # Tauri + React
 
+![image](src-tauri/icons/128x128@2x.png)
+
 This template should help get you started developing with Tauri and React in Vite.
 
 ## Recommended IDE Setup
